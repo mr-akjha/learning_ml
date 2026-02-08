@@ -1,0 +1,7 @@
+# Core Python for ML
+numpy           # Numerical computing (like PHP arrays on steroids)
+pandas          # Data manipulation (think: Eloquent for data)
+matplotlib      # Basic plotting
+seaborn         # Statistical visualization
+scikit-learn    # ML algorithms
+jupyter         # Interactive notebooks for experimentation
